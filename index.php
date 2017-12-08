@@ -5,6 +5,7 @@
 		<meta name="author" content="Jason R. Carrete">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<link rel="stylesheet" href="css/style.css">
+		<link rel="icon" href="favicon.png">
 		<title>Jsonet - Poker</title>
 	</head>
 	<body>
