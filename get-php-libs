@@ -14,4 +14,8 @@ fi
 php composer-setup.php --quiet
 RESULT=$?
 rm composer-setup.php
+if [ "$RESULT" -eq "0" ]; then
+    php composer.phar require google/apiclient:^2.0
+    RESULT=$?
+fi
 exit $RESULT
