@@ -9,6 +9,8 @@
 		<title>Jsonet - Poker</title>
 	</head>
 	<body>
-
+		<header>
+			<h1>Jsonet Poker</h1>
+		</header>
 	</body>
 </html>
