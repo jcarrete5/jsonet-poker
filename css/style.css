@@ -2,3 +2,19 @@ body {
 	font-family: 'Roboto', sans-serif;
 	margin: 0;
 }
+
+img.lowercase {
+	height: 1ex;
+	width: 1ex;
+}
+
+#web-page-header {
+	align-items: center;
+	display: flex;
+	justify-content: space-between;
+	margin: 16px 20px;
+}
+
+#web-page-header .title {
+	margin: 0;
+}
